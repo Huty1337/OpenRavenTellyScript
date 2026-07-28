@@ -1,2 +1,4 @@
 # OpenRavenTellyScript
-1
+这是一个Raven b4客户端的telly脚本
+使用方法:在方块边缘按住SD和shift，瞄准方块中间直到出现Activate字样并且变绿，此时按住右键同时松开shift即可telly
+你可以随意打滑到你的客户端里。
